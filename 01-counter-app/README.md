@@ -13,3 +13,5 @@ A simple JavaScript project that increments, decrements, and resets a counter.
 - DOM manipulation
 - Event listeners
 - Variables
+
+## Live Demo - https://anushkajamkar.github.io/javascript-projects/01-counter-app/
